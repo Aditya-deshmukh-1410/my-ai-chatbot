@@ -7,8 +7,6 @@ A modern, web-based AI chatbot built with Node.js, Express, and a sleek frontend
 
 > **Note:** This project was made for **practice purposes**.  
 
----
-
 ## Features
 
 - Interactive AI chat interface  
@@ -19,8 +17,6 @@ A modern, web-based AI chatbot built with Node.js, Express, and a sleek frontend
 - Modern frontend built with React / Next.js  
 - Easy to deploy on Vercel  
 
----
-
 ## Tech Stack
 
 - **Frontend:** React / Next.js, HTML, CSS  
@@ -28,12 +24,20 @@ A modern, web-based AI chatbot built with Node.js, Express, and a sleek frontend
 - **Deployment:** Vercel  
 - **Version Control:** Git & GitHub  
 
----
-
 ## Installation / Running Locally
 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Aditya-deshmukh-1410/my-ai-chatbot.git
    cd my-ai-chatbot
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+   npm run dev
+
+4. Open your browser at http://localhost:3000 to use the chatbot.
+
+
 
