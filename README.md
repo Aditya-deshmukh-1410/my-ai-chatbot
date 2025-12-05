@@ -17,7 +17,7 @@ A modern, web-based AI chatbot built with Node.js, Express, and a sleek frontend
 - Modern frontend built with React / Next.js  
 - Easy to deploy on Vercel  
 
-## Tech Stack
+## Tech Stack 
 
 - **Frontend:** React / Next.js, HTML, CSS  
 - **Backend:** Node.js, Express  
