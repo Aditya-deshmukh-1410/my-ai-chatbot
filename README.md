@@ -7,7 +7,7 @@ A modern, web-based AI chatbot built with Node.js, Express, and a sleek frontend
 
 > **Note:** This project was made for **practice purposes**.  
 
-## Features
+## Features 
 
 - Interactive AI chat interface  
 - Sidebar with quick navigation and “View Source” button  
